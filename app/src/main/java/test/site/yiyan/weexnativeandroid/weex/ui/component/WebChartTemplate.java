@@ -14,7 +14,7 @@ public class WebChartTemplate {
       "  <meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black\">\n" +
       "  <meta name=\"apple-touch-fullscreen\" content=\"yes\">\n" +
       "  <meta name=\"format-detection\" content=\"telephone=no, email=no\">" +
-      "  <title>国泰君安君弘</title>\n" +
+      "  <title></title>\n" +
       "  <style type=\"text/css\">\n" +
       "    html,body{\n" +
       "      padding: 0;\n" +
